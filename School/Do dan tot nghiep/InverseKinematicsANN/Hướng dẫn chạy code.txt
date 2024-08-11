@@ -1,0 +1,9 @@
+Hướng dẫn chạy quá trình từ đầu: 
+- trong folder train: chạy các quỹ đạo tương ứng để lấy dữ liệu đào tạo.
+- chạy file trainModel5 để train mô hình. 
+- chạy file agv_qdTest để lấy dữ liệu test.
+- chạy file testModelCircle để xem kết quả test.
+
+Hướng dẫn chạy giá trị có sẵn: 
+- load file 'model_5', 'model_10', hoặc 'model_15' để lấy dữ liệu đào tạo cho mỗi quá trình test
+- chạy file testModelCircle để xem kết quả test 

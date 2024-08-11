@@ -1,0 +1,7 @@
+Các bước khai báo của một danh sách liên kết đơn
+B1: Khai báo cấu trúc danh sách liên kết:
+	+, Khai báo cấu trúc của 1 node:data, pNext;
+	+, Khai báo cấu trúc điều khiển danh sách: pHead, pTail;
+B2: Khởi tạo cấu trúc của danh sách liên kết:
+	+, Khởi tạo danh sách: l.pHead, l.pTail;
+	+, Khởi tạo node trong danh sách: p->data, p->pNext;
